@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+
+<a href="https://github.com/ju-ing/ju-ing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ju-ing&show_icons=true&theme=merko&include_all_commits=true&hide=contribs&count_private=true&line_height=32" alt="ju-ing's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ju-ing/ju-ing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ju-ing&show_icons=true&theme=merko&langs_count=3&layout=default&hide_border=false" />
+</a>
+
+</p>
